@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![A preview of my revamped blogfolio](https://nextjs-notion-blog-starter.vercel.app/preview/1.jpg)
 
 # Nextjs Notion Blog Starter
@@ -77,3 +78,7 @@ This blog starter was inspired by all of these awesome open-sources
 - [leerob.io](https://github.com/leerob/leerob.io) by [@leerob](https://github.com/leerob)
 - [Next.js Notion Starter Kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) by [@transitive-bullshit](https://github.com/transitive-bullshit)
 - [braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev) by [@braydoncoyer](https://github.com/braydoncoyer/braydoncoyer)
+=======
+# my-blog
+welcome to my blog
+>>>>>>> a6dc3acbc30abe2869a241d3982cbf3deda19754
