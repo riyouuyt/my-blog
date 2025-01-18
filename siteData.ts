@@ -1,17 +1,17 @@
 const siteData = {
-  title: 'Starter Notion blog for Nextjs with Tailwind',
-  author: 'Notion Blog Starter',
-  headerTitle: 'Nextjs Notion Blog Starter',
+  title: 'Riyouuyt blog',
+  author: 'BA Blog',
+  headerTitle: 'My Notion Blog',
   profileUrl: '/nextjs-logo.png',
-  headerDescription: 'Starter Notion blog for Nextjs with Tailwind',
+  headerDescription: 'Welcome to my own blog, enjoy my content !!',
   footerText: '© All rights reserved',
-  language: 'en-us',
-  locale: 'en-US',
+  language: 'in-us',
+  locale: 'in-US',
   ogBanner: 'https://nextjs-notion-blog-starter.vercel.app/preview/1.jpg',
-  github: 'https://github.com/tuanphungcz/nextjs-notion-blog-starter',
-  twitter: 'https://github.com/tuanphungcz/nextjs-notion-blog-starter',
-  websiteUrl: 'https://nextjs-notion-blog-starter.vercel.app',
-  linkedin: 'https://github.com/tuanphungcz/nextjs-notion-blog-starter'
+  github: 'https://github.com/riyouuyt',
+  twitter: 'https://my-portfolio-l764zflr9-riyouuyts-projects.vercel.app/',
+  websiteUrl: 'https://my-portfolio-l764zflr9-riyouuyts-projects.vercel.app/',
+  linkedin: 'https://www.linkedin.com/in/bagus-ariobimo/'
 };
 
 export default siteData;

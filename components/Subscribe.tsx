@@ -3,7 +3,7 @@ import SubscribeInput from './SubscribeInput';
 
 export default function Subscribe() {
   return (
-    <div className="py-24 text-center bg-gray-100">
+    <div className=" py-24 text-center bg-gray-100">
       <Container>
         <div className="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl">
           Subscribe to the newsletter
